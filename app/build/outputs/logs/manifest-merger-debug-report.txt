@@ -1,12 +1,13 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\ef8a364a6a39421e69c96cf68eeb3e63\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [org.litepal.android:core:1.4.1] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\7aaeb3a0c7da3a0020f63744913ff208\jetified-core-1.4.1\AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\a7fe04b0eba2a8aa912f1dca1c03ba99\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\7eb3e9033e20967dc4b6eab4b9d34b59\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\a627ba2b0fb7cab1458068884dcfd7e5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -18,28 +19,28 @@ MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\luoboxian\.g
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.1.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\4dea87d08cf4eca2be6818de5406de80\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\9c87d4ce634b90f093cf672ae75a3e2d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
 		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:3:5-38
 		INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml
 		INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml
-		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:1-29:12
+		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml
-		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:1-29:12
+		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:2:11-69
@@ -48,7 +49,7 @@ ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml
 	android:name
 		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:7:5-27:19
+ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:7:5-29:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [org.litepal.android:core:1.4.1] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\7aaeb3a0c7da3a0020f63744913ff208\jetified-core-1.4.1\AndroidManifest.xml:11:5-14:19
@@ -75,24 +76,32 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\lu
 		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:12:9-69
 	android:name
 		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:8:9-54
+service#com.example.coolweather.service.AutoUpdateService
+ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:16:9-19:47
+	android:enabled
+		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:18:13-35
+	android:exported
+		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:17:13-54
 activity#com.example.coolweather.WeatherActivity
-ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:16:9-17:20
+ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:21:9-62
 	android:name
-		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:16:19-50
+		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:21:19-50
 activity#com.example.coolweather.MainActivity
-ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:18:9-24:20
+ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:22:9-28:20
 	android:name
-		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:18:19-47
+		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:22:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml:26:27-74
 uses-sdk
 INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\workplace\androidTest\CoolWeather\app\src\main\AndroidManifest.xml
@@ -103,6 +112,8 @@ MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\luoboxia
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [org.litepal.android:core:1.4.1] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\7aaeb3a0c7da3a0020f63744913ff208\jetified-core-1.4.1\AndroidManifest.xml:7:5-9:41
 MERGED from [org.litepal.android:core:1.4.1] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\7aaeb3a0c7da3a0020f63744913ff208\jetified-core-1.4.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\a7fe04b0eba2a8aa912f1dca1c03ba99\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\a7fe04b0eba2a8aa912f1dca1c03ba99\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\7eb3e9033e20967dc4b6eab4b9d34b59\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\7eb3e9033e20967dc4b6eab4b9d34b59\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\a627ba2b0fb7cab1458068884dcfd7e5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -125,6 +136,8 @@ MERGED from [androidx.core:core:1.1.0] C:\Users\luoboxian\.gradle\caches\transfo
 MERGED from [androidx.core:core:1.1.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\4dea87d08cf4eca2be6818de5406de80\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
@@ -133,8 +146,6 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\luoboxian\.g
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\9c87d4ce634b90f093cf672ae75a3e2d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\luoboxian\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44

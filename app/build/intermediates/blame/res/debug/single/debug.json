@@ -68,12 +68,12 @@
         "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_forecast_item.xml.flat",
-        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\layout\\forecast_item.xml"
-    },
-    {
         "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_aqi.xml.flat",
         "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\layout\\aqi.xml"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_forecast_item.xml.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\layout\\forecast_item.xml"
     },
     {
         "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
