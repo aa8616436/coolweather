@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_now.xml.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\layout\\now.xml"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_suggestion.xml.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\layout\\suggestion.xml"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_choose_area.xml.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\layout\\choose_area.xml"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_forecast_item.xml.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\layout\\forecast_item.xml"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_aqi.xml.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\layout\\aqi.xml"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_forecast.xml.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\layout\\forecast.xml"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_weather.xml.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\layout\\activity_weather.xml"
+    },
+    {
+        "merged": "F:\\workplace\\androidTest\\CoolWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_title.xml.flat",
+        "source": "F:\\workplace\\androidTest\\CoolWeather\\app\\src\\main\\res\\layout\\title.xml"
+    }
+]
